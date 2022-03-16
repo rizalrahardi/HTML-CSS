@@ -32,10 +32,14 @@ nav li {
     display: inline;
     list-style-type: none;
     margin-right: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #94ceeb;
 }
 
 nav li:hover {
     color: white;
+    background-color: #6ec5f0;
 }
 
 nav li li:hover {
